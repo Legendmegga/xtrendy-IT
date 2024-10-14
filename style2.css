@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to right, rgb(255, 30, 0)  , black , rgb(255, 30, 0)  );
+}
+H1 {
+    color: antiquewhite;
+}
+h2{
+    color: antiquewhite;
+}
+li {
+    color: antiquewhite;
+}

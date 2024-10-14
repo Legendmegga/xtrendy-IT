@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to right, rgb(6, 6, 102)  , black , rgb(6, 6, 102)  );
+}
+
+h1 {
+    font-size: 3cm;
+    color: antiquewhite;
+}
+p {
+    font-size: 1cm;
+    color: antiquewhite;
+}
+h2 {
+    font-size: 2cm;
+    color: antiquewhite;
+}
